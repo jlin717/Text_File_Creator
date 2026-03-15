@@ -1,1 +1,1 @@
-Practice on how to create files and describe what my favorite color is.
+A simple Python script that collects your input and generates a personalized text file named example.txt. This is a great entry-level example of how Python handles standard input and file I/O (Input/Output).
